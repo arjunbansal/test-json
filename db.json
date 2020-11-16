@@ -1,16 +1,13 @@
-[
-    {
-        "title": "Ottotto Threads 2T-4T Toddler Cotton Face mask - Strawberries",
-        "summary": "Best overall kids\u2019 face masks",
-        "price": "$17",
-        "washable": 0.33,
-        "Mean score": 0.52
-    },
-    {
-        "title": "Joah Love Coral Stripe",
-        "summary": "Best overall kids\u2019 face masks",
-        "price": "$20",
-        "washable": 0.67,
-        "Mean score": 0.65
-    }
-]
+[{
+	"title": "Ottotto Threads 2T-4T Toddler Cotton Face mask - Strawberries",
+	"summary": "Best overall kids\u2019 face masks",
+	"price": "$17",
+	"washable": 0.33,
+	"Mean score": 0.52
+}, {
+	"title": "Joah Love Coral Stripe",
+	"summary": "Best overall kids\u2019 face masks",
+	"price": "$20",
+	"washable": 0.67,
+	"Mean score": 0.65
+}]
